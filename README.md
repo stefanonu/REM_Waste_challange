@@ -11,6 +11,12 @@
     ```bash
     brew install ffmpeg yt-dlp  # on macOS
     ```
+     ```bash
+    sudo apt install ffmpeg yt-dlp # on Linux
+    ```
+      ```bash
+    choco install ffmpeg # on Windows
+    ```
 
 ## How to Use
 
