@@ -1,4 +1,9 @@
-## Setup
+## 🌐 Live Demo
+
+You can access this URL: https://remwastechallange-8satezzqqerpymtepobxnv.streamlit.app/
+Upload a short audio or video clip, or paste a YouTube link, and the app will classify the accent!
+
+## Setup Locally
 
 1. **Clone the repo and create a virtual environment**:
     ```bash
